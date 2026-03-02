@@ -10,4 +10,4 @@ These are the values used by the game's logic to determine the speed of the play
 - 3.0x portal: 1.3f
 - 4.0x portal: 1.6f
 
-### NOTE 2: If anyone would like to make a better icon for this mod, please dm me on discord (@mariomastr) with a suggestion.
+Thanks @galtum on discord for the logo!

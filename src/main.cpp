@@ -12,7 +12,7 @@ using namespace geode::prelude;
 #define GET_SETTING_BOOL(value, name) bool value = Mod::get()->getSettingValue<bool>(name)
 #define GET_SETTING_FLOAT(value, name) float value = static_cast<float>(Mod::get()->getSettingValue<double>(name))
 
-#define DEBUG_OPTIONS true
+#define DEBUG_OPTIONS false 
 
 // portal object IDs
 const int SLOW_SPEED_PORTAL = 200;

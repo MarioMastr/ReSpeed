@@ -1,1 +1,0 @@
-If you have any issues, make an issue in the GitHub repo or message me on discord (mariomastr) and I'll try to get around to you as quickly as possible. It may take some time because I have tough school life.

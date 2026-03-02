@@ -1,3 +1,5 @@
+# 2.1.1
+- New logo (thanks @galtum!)
 # 2.1.0
 - Update to 2.2081 and Geode 5.0.0
 - Change username of mod developer to match in-game GD name
