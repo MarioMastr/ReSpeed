@@ -9,5 +9,3 @@ These are the values used by the game's logic to determine the speed of the play
 - 2.0x portal: 1.1f
 - 3.0x portal: 1.3f
 - 4.0x portal: 1.6f
-
-Thanks @galtum on discord for the logo!
