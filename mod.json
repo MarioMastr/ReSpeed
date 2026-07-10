@@ -12,7 +12,7 @@
     "developers": ["SuperMarioMastr", "PizzaTowerFanGD"],
     "description": "Allows you to tweak the speed of each speed portal individually from one another.",
     "links": {
-        "source": "https://github.com/MarioMastr/Accurate-Speed-Portals"
+        "source": "https://github.com/MarioMastr/ReSpeed"
     },
     "settings": {
         "enable-mod": {
