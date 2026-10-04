@@ -1,3 +1,5 @@
+# 2.1.2
+- Fix me being an idiot
 # 2.1.1
 - New logo (thanks @galtum on discord)
 # 2.1.0
