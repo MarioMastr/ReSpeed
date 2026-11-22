@@ -126,7 +126,7 @@ class $modify(SpeedGJBGL, GJBaseGameLayer) {
 };
 
 class $modify(SpeedEffectGameObject, EffectGameObject) {
-    void triggerObject(GJBaseGameLayer *p0, int p1, gd::vector<int> const *p2) {
+    void triggerObject(GJBaseGameLayer *p0, int p1, std::vector<int> const *p2) {
         EffectGameObject::triggerObject(p0, p1, p2);
 
         bool isPlayer1 = !Mod::get()->getSettingValue<bool>("enable-mod-2p") ? true : (this->m_activatedByPlayer1 ? true : ((p0->m_gameState.m_isDualMode && this->m_activatedByPlayer2) ? false : true));

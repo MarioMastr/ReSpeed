@@ -8,7 +8,7 @@ else()
 endif()
 set(CMAKE_CXX_VISIBILITY_PRESET hidden)
 
-project(AccurateSpeedPortals VERSION 2.1.1)
+project(AccurateSpeedPortals VERSION 2.2.0)
 
 add_library(${PROJECT_NAME} SHARED
     src/main.cpp

@@ -1,3 +1,5 @@
+# 2.2.0
+- Update to 2.2091 and Geode 6.0.0
 # 2.1.2
 - Fix me being an idiot
 # 2.1.1

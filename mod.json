@@ -1,14 +1,14 @@
 {
-    "geode": "5.10.1",
+    "geode": "6.0.0-beta.1",
     "gd": {
-        "win": "2.2081",
-        "android": "2.2081",
-        "mac": "2.2081",
-        "ios": "2.2081"
+        "win": "2.2091",
+        "android": "2.2091",
+        "mac": "2.2091",
+        "ios": "2.2091"
     },
     "id": "mariomastr.customisable-speed-portals",
     "name": "ReSpeed",
-    "version": "v2.1.2",
+    "version": "v2.2.0",
     "developers": ["SuperMarioMastr", "PizzaTowerFanGD"],
     "description": "Allows you to tweak the speed of each speed portal individually from one another.",
     "links": {
